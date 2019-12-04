@@ -1,0 +1,28 @@
+# estil 
+Color: #912e40
+
+# dimensions imatge fons
+1021 x 667
+
+# mapa responsive de la imagen
+
+https://github.com/davidjbradshaw/image-map-resizer
+
+Include jQuery and the imageMapResizer.min.js script and then add the following call to the bottom of your page:
+
+$('map').imageMapResize();
+Or you may want to wrap it in a $(document).ready() function:
+
+$(document).ready(function() {
+    $('map').imageMapResize();
+});
+Example
+http://davidjbradshaw.com/imagemap-resizer/example/
+
+# bootstrap carousel
+https://getbootstrap.com/docs/4.0/components/carousel/
+
+# jesus corral
+
+Quince años trabajando como ingeniero especialista en la redacción y coordinación de proyectos y estudios relacionados con la ingeniería de puertos, costas y medio ambiente. En particular, realizando estudios de: clima marítimo, fenómenos hidrodinámicos, dinámica litoral, calidad de aguas y diseño de obras marítimas.
+Quince años de experiencia como profesor asociado en el Departamento de Matemática Aplicada III (UPC), impartiendo clases de estadística en las titulaciones de Ingeniería de Caminos e Ingeniería Técnica Industrial y dirigiendo tesinas relacionadas con la estadística aplicada a la ingeniería.
